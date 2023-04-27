@@ -1,0 +1,18 @@
+{
+    "name": "leugin/model-stubs",
+    "description": "Este proyecto tendra todos los modelos de talently",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leugin\\ModelStubs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miguel Quevedo",
+            "email": "meqh1922@gmail.com"
+        }
+    ],
+    "require": {}
+}
